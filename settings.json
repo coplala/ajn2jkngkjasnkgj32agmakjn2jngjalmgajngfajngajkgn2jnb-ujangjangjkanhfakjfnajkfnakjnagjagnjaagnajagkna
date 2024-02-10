@@ -1,0 +1,39 @@
+{
+    "TacticalAssist": {
+        "Triggers": {
+            "AimKey": "RButton"
+        },
+        "Target_Offsets": {
+            "Enabled": true,
+            "XOffset": 5.5,
+            "YOffset": 5.5
+        },
+        "Target": {
+            "SearchPlayer": 21
+        },
+        "Aiming": {
+            "X214": 0.190,
+            "X215": 0.190
+        },
+        "SmoothMovements": {
+            "XSmoothness": 40,
+            "YSmoothness": 30
+        },
+        "SmoothingParameters": {
+            "EmulatorX": 5,
+            "EmulatorY": 5,
+            "SeparatorX": 200,
+            "SeparatorY": 200
+        },
+        "Shake": {
+            "Enabled": false,
+            "X": 4,
+            "Y": 3,
+            "Z": 1
+        },
+        "FieldOfView": {
+            "XOffset": 5,
+            "YOffset": 5
+        }
+    }
+}
